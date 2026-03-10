@@ -13,4 +13,4 @@ tiempo de desarrollo y garantiza consistencia visual en toda la aplicaci´on
 
 [Proyecto Desplegado (https://form-react-two-xi.vercel.app/)](https://form-react-two-xi.vercel.app/)
 
-![descripcion](./capFormulario.jpg)
+![descripcion](capFormulario.jpg)
